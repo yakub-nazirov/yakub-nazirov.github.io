@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://yakub-nazirov.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://yakub-nazirov.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yakub-nazirov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://yakub-nazirov.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://yakub-nazirov.github.io/en/post/01/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yakub-nazirov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;неделя-в-бизнес-информатике-технологии-практика-и-выводы&#34;&gt;Неделя в бизнес-информатике: технологии, практика и выводы&lt;/h2&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Учёба:&lt;/strong&gt; Разбирал, как цифровая трансформация меняет бизнес. Интересно, как компании внедряют ИИ, автоматизацию и аналитику для повышения эффективности.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Практика:&lt;/strong&gt; Пробовал моделировать бизнес-процессы с помощью BPMN. Оказалось, что визуализация действительно помогает понять, где можно оптимизировать процессы.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Инсайт недели:&lt;/strong&gt; Глубже изучил тему CI/CD и осознал, насколько важна автоматизация в IT и бизнесе. Компании, которые быстро адаптируются и внедряют новые технологии, выигрывают в конкурентной борьбе.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Планы:&lt;/strong&gt; Разобраться с основами SQL и попробовать создать свою небольшую базу данных для анализа бизнес-процессов.&lt;/p&gt;
+&lt;p&gt;Как прошла твоя неделя? Делись в комментариях!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
