@@ -5,12 +5,28 @@
     <link>https://yakub-nazirov.github.io/tags/hugo-blox/</link>
       <atom:link href="https://yakub-nazirov.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yakub-nazirov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://yakub-nazirov.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://yakub-nazirov.github.io/post/02/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yakub-nazirov.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-учебная-неделя-кратко-о-главном&#34;&gt;📈 Учебная неделя: кратко о главном&lt;/h1&gt;
+&lt;p&gt;Неделя выдалась интенсивной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Изучали экономические модели и их применение в цифровой среде.&lt;/li&gt;
+&lt;li&gt;🔹 Освоили основы Markdown — теперь презентации и отчёты оформляю чётко и удобно.&lt;/li&gt;
+&lt;li&gt;🔹 На практике моделировали бизнес-процессы в BPMN.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Учусь совмещать технику и аналитику — и мне это реально нравится! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
